@@ -1,0 +1,8 @@
+node_modules
+dist
+.vercel
+harir-fashion-lms.zip
+serve.ps1
+auto-deploy-vercel.ps1
+vite.log
+*.log
